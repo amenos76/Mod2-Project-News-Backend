@@ -8,5 +8,5 @@ class SportsController < ApplicationController
             
         render json: sports_articles
     end
-
+     
 end
