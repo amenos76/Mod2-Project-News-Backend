@@ -13,7 +13,7 @@ class FavoritesController < ApplicationController
             link_to_image: params[:link_to_image],
             link_to_story: params[:link_to_story])
 
-        flash[:notice] = "Saved to My Feed!"
+        render json: @favorite
     end
 
 end
