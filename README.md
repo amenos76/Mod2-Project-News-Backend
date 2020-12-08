@@ -13,7 +13,7 @@
 
 
 ## General info
-Trending Stories is a website that pulls in all the top trending news stories, and refreshes as the day goes on to keep you up to date! You can search for stories using the built in categories, for example, Trending, Sports, Entertainment, and Technology. For a more taylored search you can use the search option to find the stories you're looking for. There is also a My Feed feature that allows you to add and remove stories to a personalized feed specific to your choices. You can use this is your in a rush and would like to read them later, or save them there to easily reference and find if you would like to share them with a friend. Lastly, to make things a little easier for you, there is an auto-scroll button that allows you to see all the articles scroll through hands free!
+Trending Stories is a website that pulls in all the top trending news stories, and refreshes as the day goes on! You can search for stories using the built in categories; Trending, Sports, Entertainment, and Technology. For a more taylored search, use the search option to find the stories you are looking for. There is also a My Feed feature that allows you to add and remove stories to a personalized feed specific to your choices. You can use this if you are in a rush and would like to read them later, or save them there to easily reference and share  with a friend. Lastly, to make things a little easier for you, there is an auto-scroll button that allows you to see all the articles scroll through hands free!
 
 ## Intro Video
 
