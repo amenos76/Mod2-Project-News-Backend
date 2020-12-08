@@ -24,7 +24,6 @@ video link here.
 * Bootsnap - 1.4.2
 * RestClient - 2.1.0
 * SQLite3 - version 1.4
-* Node.js 15.2.1
 * API - Newsapi.org
 
 ## Setup
