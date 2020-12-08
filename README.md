@@ -44,9 +44,9 @@ run lite-server
 
 ![gif of search](https://media.giphy.com/media/iPlT3KdCMj08GpR7fa/giphy.gif)
 
-* Save stories to your personlized My Feed.
+* Save stories to your personlized My Feed!
 
-![gif add to feed](https://media.giphy.com/media/4WTiO9x0DJQRbnXL0j/giphy.gif)
+![gif add to feed](https://media.giphy.com/media/4WTiO9x0DJQRbnXL0j/giphy.gif) 
 
 * Remove stories from your personlized My Feed.
 
