@@ -61,6 +61,21 @@ run lite-server
 ## Code Examples
 
 ``` javascript
+document.addEventListener('click', activateCarousel);
+
+let timer;
+
+function activateCarousel(event){
+    if (event.target === document.getElementById("on-button")) {
+        carouselCards()
+        console.log("Autoscroll turned on!")
+    }
+    if (event.target === document.getElementById("off-button")) {
+        clearInterval(timer);
+        console.log("Autoscroll turned off!")
+    }
+};
+
 function carouselCards() {
     timer = setInterval(function() {
       const $parentContainer = document.querySelector('.container');
@@ -73,23 +88,24 @@ function carouselCards() {
       }, 5000);
 
     }, 5000);
+  };
+```
+
+``` css
+.item.sliding-now {
+  animation: up 2s linear infinite forwards;
+  animation-delay: 3s;
+}
+
+@keyframes up {
+  from {
+    transform: translateY(0);
   }
+  to {
+    transform: translateY(calc(-17.5em - 1em));
+  }
+}
 ```
-
-``` javascript
-fetch(articlesURL)
-    .then(response => response.json())
-    .then(articles => displayStories(articles))
-    .then(addingEventListeners);
-
-function displayStories(story) {
-    story.forEach(showStory)
-
-    const loadingGif = document.querySelector('.loading')
-    loadingGif.remove()
-};
-```
-
 
 ## Status
 Project is finished with option to expand features and further refactor code.
