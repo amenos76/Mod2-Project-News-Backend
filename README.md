@@ -3,7 +3,6 @@
 
 ## Table of contents
 * [General info](#general-info)
-* [Intro Video](#intro-video)
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Features](#features)
@@ -15,9 +14,6 @@
 ## General info
 Trending Stories is a website that pulls in all the top trending news stories, and refreshes as the day goes on! You can search for stories using the built in categories; Trending, Sports, Entertainment, and Technology. For a more taylored search, use the search option to find the stories you are looking for. There is also a My Feed feature that allows you to add and remove stories to a personalized feed specific to your choices. You can use this if you are in a rush and would like to read them later, or save them there to easily reference and share  with a friend. Lastly, to make things a little easier for you, there is an auto-scroll button that allows you to see all the articles scroll through hands free!
 
-## Intro Video
-
-video link here. 
 
 ## Technologies
 * Ruby - version 2.6.1
@@ -41,15 +37,24 @@ run lite-server
 ## Features
 
 * Browse the top trending stories!
-  ![gif of highlights](https://imgur.com/QkBVocj) 
+
+![gif of highlights](https://media.giphy.com/media/C6wAbbicfLLyrlR79F/giphy.gif) 
+
 * Search for specific topics using our dynamic search feature.
-  ![gif of search](https://imgur.com/1pVDH6y)
+
+![gif of search](https://media.giphy.com/media/iPlT3KdCMj08GpR7fa/giphy.gif)
+
 * Save stories to your personlized My Feed.
-   ![gif add to feed](https://media.giphy.com/media/4WTiO9x0DJQRbnXL0j/giphy.gif)
+
+![gif add to feed](https://media.giphy.com/media/4WTiO9x0DJQRbnXL0j/giphy.gifc)
+
 * Remove stories from your personlized My Feed.
-  ![gif remove from feed](https://imgur.com/ItMHJ8e)
+
+![gif remove from feed](https://media.giphy.com/media/lXfWkdNTGVzxpisBHq/giphy.gif)
+
 * Allow the site to do the work for you with our auto scroll button that can be conveniently turned on and off.
-![gif of search](https://imgur.com/GQsoeV2)
+
+![gif of scroll](https://media.giphy.com/media/qEdUwkY5bYCZ4EeFBK/giphy.gif)
 
     
 
