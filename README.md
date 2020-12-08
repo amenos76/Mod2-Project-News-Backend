@@ -41,10 +41,16 @@ run lite-server
 ## Features
 
 * Browse the top trending stories!
+  ![gif of highlights](https://imgur.com/QkBVocj) 
 * Search for specific topics using our dynamic search feature.
+  ![gif of search](https://imgur.com/1pVDH6y)
 * Save stories to your personlized My Feed.
-* Allow the site to do the work for you with our auto scroll button    
-  that can be conveniently turned on and off.
+   ![gif add to feed](https://media.giphy.com/media/4WTiO9x0DJQRbnXL0j/giphy.gif)
+* Remove stories from your personlized My Feed.
+  ![gif remove from feed](https://imgur.com/ItMHJ8e)
+* Allow the site to do the work for you with our auto scroll button that can be conveniently turned on and off.
+![gif of search](https://imgur.com/GQsoeV2)
+
     
 
 ## Code Examples
