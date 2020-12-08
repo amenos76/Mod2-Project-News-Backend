@@ -46,7 +46,7 @@ run lite-server
 
 * Save stories to your personlized My Feed.
 
-![gif add to feed](https://media.giphy.com/media/4WTiO9x0DJQRbnXL0j/giphy.gifc)
+![gif add to feed](https://media.giphy.com/media/4WTiO9x0DJQRbnXL0j/giphy.gif)
 
 * Remove stories from your personlized My Feed.
 
